@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "2006"
+date_format = "Jan 2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -25,8 +25,8 @@ date_format = "2006"
   title = "Grand Solutions research grant"
   url = ""
   certificate_url = ""
-  date_start = "2017"
-  date_end = "2021"
+  date_start = "2017-1-1"
+  date_end = "2021-1-1"
   description = ""
 
 
@@ -36,7 +36,7 @@ date_format = "2006"
   title = "Research Grant"
   url = ""
   certificate_url = ""
-  date_start = "2017"
+  date_start = "2017-1-1"
   date_end = ""
   description = ""
   
@@ -46,8 +46,8 @@ date_format = "2006"
   title = "Individual Postdoc Grant"
   url = ""
   certificate_url = ""
-  date_start = "2014"
-  date_end = "2017"
+  date_start = "2014-1-1"
+  date_end = "2017-1-1"
   description = ""
 
 [[item]]
@@ -56,7 +56,7 @@ date_format = "2006"
   title = "Research Grant"
   url = ""
   certificate_url = ""
-  date_start = "2014"
+  date_start = "2014-1-1"
   date_end = ""
   description = ""
   
@@ -66,7 +66,7 @@ date_format = "2006"
   title = "Research Grant"
   url = ""
   certificate_url = ""
-  date_start = "2011"
+  date_start = "2011-1-1"
   date_end = ""
   description = ""
     
