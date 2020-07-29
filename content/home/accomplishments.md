@@ -22,7 +22,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Innovation Fund Denmark"
   organization_url = ""
-  title = "Grand Solutions research grant”
+  title = "Grand Solutions research grant"
   url = ""
   certificate_url = ""
   date_start = "2017"
