@@ -20,8 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I am an applied labor economist working on topics related to international migration and family location decisions. I lead the Economic Assimilation Research Network.
 
-interests:
-sssjsj
+interests: []
 
 education:
   courses:
