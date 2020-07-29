@@ -22,18 +22,7 @@ bio: I am an applied labor economist working on topics related to international 
 
 interests: []
 
-education: 
-  courses:
-  - course: Assistant Professor
-    institution: University of Copenhagen (UCPH)
-    year: 2017
-  - course: Postdoc,
-    institution: University of Copenhagen (UCPH)
-    year: 2014
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
- 
+education: []
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
