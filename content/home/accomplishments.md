@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Research Grants"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,54 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Innovation Fund Denmark"
+  organization_url = ""
+  title = Grand Solutions research grant ”
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  certificate_url = ""
+  date_start = "2017"
+  date_end = "2021"
+  description = "Awarded to “EARN: Economic Assimilation Research Network"
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "Economic Policy Research Network"
+  organization_url = ""
+  title = "Research Grant"
+  url = ""
+  certificate_url = ""
+  date_start = "2017"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "Awarded to project "Quasi-experimental Evidence on Language Proficiency, Employment, and Welfare Dependency”, with Cynthia Van Der Werf"
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Danish Council for Independent Research"
+  organization_url = ""
+  title = "Individual Postdoc Grant"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = ""
+  date_start = "2014"
+  date_end = "2017"
+  description = "Awarded to project “Organization of Production, Product-Variety and Immigration”"
 
+[[item]]
+  organization = "Economic Policy Research Network"
+  organization_url = ""
+  title = "Research Grant"
+  url = ""
+  certificate_url = ""
+  date_start = "2014"
+  date_end = ""
+  description = "Awarded to project “Immigration Laws and the Performance of Immigrants”"
+  
+[[item]]
+  organization = "Economic Policy Research Network"
+  organization_url = ""
+  title = "Research Grant"
+  url = ""
+  certificate_url = ""
+  date_start = "2011"
+  date_end = ""
+  description = "Awarded to project ”The task specialization hypothesis and possible productivity effects of immigration” with G. Peri"
+  
+  
 +++
