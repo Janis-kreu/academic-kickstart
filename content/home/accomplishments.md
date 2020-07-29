@@ -27,7 +27,7 @@ date_format = "2006"
   certificate_url = ""
   date_start = "2017-01-01"
   date_end = "2021-01-01"
-  description = "Awarded to "EARN: Economic Assimilation Research Network""
+  description = "Awarded to EARN: Economic Assimilation Research Network"
 
 
 [[item]]
@@ -38,7 +38,8 @@ date_format = "2006"
   certificate_url = ""
   date_start = "2017-01-01"
   date_end = ""
-  description = ""
+  description = """Awarded to project Quasi-experimental Evidence on Language
+                Proficiency, Employment, and Welfare Dependency”, with Cynthia Van Der Werf"""
   
 [[item]]
   organization = "Danish Council for Independent Research"
