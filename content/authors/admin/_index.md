@@ -22,7 +22,7 @@ bio: I am an applied labor economist working on topics related to international 
 
 interests: []
 
-education and position: 
+education: 
   courses:
   - course: Assistant Professor
     institution: University of Copenhagen (UCPH)
