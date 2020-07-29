@@ -26,7 +26,47 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017"
   date_end = "2021"
-  description = "Awarded to “EARN: Economic Assimilation Research Network"
+  description = "Awarded to “EARN: Economic Assimilation Research Network""
 
+
+[[item]]
+  organization = "Economic Policy Research Network"
+  organization_url = ""
+  title = "Research Grant"
+  url = ""
+  certificate_url = ""
+  date_start = "2017"
+  date_end = ""
+  description = "Awarded to project "Quasi-experimental Evidence on Language Proficiency, Employment, and Welfare Dependency”, with Cynthia Van Der Werf"
   
+[[item]]
+  organization = "Danish Council for Independent Research"
+  organization_url = ""
+  title = "Individual Postdoc Grant"
+  url = ""
+  certificate_url = ""
+  date_start = "2014"
+  date_end = "2017"
+  description = "Awarded to project “Organization of Production, Product-Variety and Immigration”"
+
+[[item]]
+  organization = "Economic Policy Research Network"
+  organization_url = ""
+  title = "Research Grant"
+  url = ""
+  certificate_url = ""
+  date_start = "2014"
+  date_end = ""
+  description = "Awarded to project “Immigration Laws and the Performance of Immigrants”"
+  
+[[item]]
+  organization = "Economic Policy Research Network"
+  organization_url = ""
+  title = "Research Grant"
+  url = ""
+  certificate_url = ""
+  date_start = "2011"
+  date_end = ""
+  description = "Awarded to project ”The task specialization hypothesis and possible productivity effects of immigration” with G. Peri"
+    
 +++
