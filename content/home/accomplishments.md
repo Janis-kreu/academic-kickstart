@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2018-10-01"
-  date_end = "2017-1-1"
+  date_end = ""
   description = ""
 
 [[item]]
