@@ -19,5 +19,56 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
+[[item]]
+  organization = "Innovation Fund Denmark"
+  organization_url = ""
+  title = "Grand Solutions research grant”
+  url = ""
+  certificate_url = ""
+  date_start = "2017"
+  date_end = "2021"
+  description = ""
+
+
+[[item]]
+  organization = "Economic Policy Research Network"
+  organization_url = ""
+  title = "Research Grant"
+  url = ""
+  certificate_url = ""
+  date_start = "2017"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Danish Council for Independent Research"
+  organization_url = ""
+  title = "Individual Postdoc Grant"
+  url = ""
+  certificate_url = ""
+  date_start = "2014"
+  date_end = "2017"
+  description = ""
+
+[[item]]
+  organization = "Economic Policy Research Network"
+  organization_url = ""
+  title = "Research Grant"
+  url = ""
+  certificate_url = ""
+  date_start = "2014"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Economic Policy Research Network"
+  organization_url = ""
+  title = "Research Grant"
+  url = ""
+  certificate_url = ""
+  date_start = "2011"
+  date_end = ""
+  description = ""
+    
     
 +++
