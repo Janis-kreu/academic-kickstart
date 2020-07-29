@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Mette Foged
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,18 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor at the Department of Economics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Copenhagen
+  url: "https://www.ku.dk/english"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am an applied labor economist working on topics related to international migration and family location decisions. I lead the Economic Assimilation Research Network.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+[]
 
 education:
   courses:
@@ -36,6 +34,7 @@ education:
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
+ 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
