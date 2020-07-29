@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Innovation Fund Denmark"
   organization_url = ""
-  title = " Grand Solutions research grant ”
+  title = "Grand Solutions research grant”
   url = ""
   certificate_url = ""
   date_start = "2017"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017"
   date_end = ""
-  description = """Awarded to project "Quasi-experimental Evidence on Language Proficiency, Employment, and Welfare Dependency”, with Cynthia Van Der Werf"""
+  description = "Awarded to project "Quasi-experimental Evidence on Language Proficiency, Employment, and Welfare Dependency”, with Cynthia Van Der Werf"
   
 [[item]]
   organization = "Danish Council for Independent Research"
