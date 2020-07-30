@@ -23,13 +23,13 @@
  [[main]]
   name = "EARN"
   url = "#earn"
-  weight = 35
+  weight = 40
   parent = "Projects"
 
 [[main]]
   name = "News"
   url = "#news"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Contact"
