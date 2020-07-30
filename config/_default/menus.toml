@@ -18,6 +18,13 @@
   name = "Projects"
   url = "#projects"
   weight = 30
+  identifier = "EARN"
+  
+ [[main]]
+  name = "EARN"
+  url = "#earn"
+  weight = 35
+  parent = "Projects"
 
 [[main]]
   name = "News"
