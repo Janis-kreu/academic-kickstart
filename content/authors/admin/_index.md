@@ -23,16 +23,16 @@ bio: I am an applied labor economist working on topics related to international 
 interests: []
 
 education: 
-courses:
-  - course: Assistant Professor
-    institution: University of Copenhagen
-    year: 2019
-  - course: CreAM Fellow
-    institution: University College London
-    year: 2019
-  - course: IZA Research Fellow
-    institution: Institute for Study of Labor Bonn
-    year: 2015
+  courses:
+    - course: Assistant Professor
+      institution: University of Copenhagen
+      year: 2019
+    - course: CreAM Fellow
+      institution: University College London
+      year: 2019
+    - course: IZA Research Fellow
+      institution: Institute for Study of Labor Bonn
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
