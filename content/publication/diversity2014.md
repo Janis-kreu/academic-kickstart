@@ -1,6 +1,6 @@
 
 ---
-title: "Positive effekter af diversitet p arbejdsmarkedet"
+title: "Positive effekter af diversitet på arbejdsmarkedet"
 authors:
 - admin
 date: "2014-12-01"
@@ -12,10 +12,10 @@ date: "2014-12-01"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Samfundskonomen (The Social Scientist) 4, pp. 14-18"
+publication: "Samfundsøkonomen (The Social Scientist) 4, pp. 14-18"
 publication_short: ""
 
-abstract: ABS
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary: 
