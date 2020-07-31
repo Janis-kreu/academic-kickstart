@@ -3,12 +3,7 @@ title: "Immigrants’ Effect on Native Workers:New Analysis on Longitudinal Data
 authors:
 - admin
 - Giovanni Peri
-author_notes: []
-date: "2015-00-00T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: ""
+date: "2015-04-01"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -44,7 +39,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: []
   focal_point: ""
   preview_only: false
 
@@ -55,12 +50,6 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: ""
 ---
 
 {{% alert note %}}
