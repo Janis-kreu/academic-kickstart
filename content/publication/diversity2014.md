@@ -12,10 +12,10 @@ date: "2014-12-01"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "	Samfundsøkonomen (The Social Scientist) 4, pp. 14-18"
+publication: "Samfundsøkonomen (The Social Scientist) 4, pp. 14-18"
 publication_short: ""
 
-abstract: []
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary: []
