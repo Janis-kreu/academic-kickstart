@@ -1,14 +1,14 @@
 ---
-title: "An example journal article"
+title: "Immigrants’ Effect on Native Workers:New Analysis on Longitudinal Data"
 authors:
 - admin
 - Giovanni Peri
 author_notes: []
-date: "2015"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2015"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,22 +17,22 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "American Economic Journal: Applied Economics, 8(2): 1–34"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Using  longitudinal  data  on  the  universe  of  workers  in  Denmark  during the period 1991–2008, we track the labor market outcomes of low-skilled natives in response to an exogenous inflow of  low-skilled immigrants. We innovate on previous identification strategies by con-sidering  immigrants  distributed  across  municipalities  by  a  refugee  dispersal  policy  in  place  between  1986  and  1998.  We  find  that  an  increase  in  the  supply  of  refugee-country  immigrants  pushed  less  educated  native  workers  (especially  the  young  and  low-tenured  ones) to pursue less manual-intensive occupations. As a result immi-gration had positive effects on native unskilled wages, employment, and occupational mobility.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: []
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: http://dx.doi.org/10.1257/app.20150114
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -60,7 +60,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% alert note %}}
