@@ -19,20 +19,7 @@ publication_types: ["2"]
 publication: "Dansk Sociologi (Danish Sociology) 22 (3)"
 publication_short: ""
 
-abstract: Artiklen viser, at der er en nær sammenhæng mellem social baggrund og gen-
-nemførelse  af  eliteuddannelse  og  ikke-eliteuddannelse  blandt  en  gruppe  af 
-danske  migranter  med  minimum  fem  års  ophold  i  udlandet.  Vi  tilføjer  en 
-ny  rekonversionsstrategi  til  Pierre  Bourdieus  ba! eri  af  strategier  udfoldet  i 
-La Noblesse d'État, en udvandringsstrategi med henblik på erhvervelse af ud-
-dannelseskapital.  Især  personer  med  veluddannede  forældre  har  en  forøget 
-sandsynlighed for at erobre en universitetsuddannelse på en eliteinstitution, 
-navnlig i 'zones of prestige', det vil sige i England og USA, som relativt set 
-har  de  største  udbud  af  distinktive  universitetsinstitutioner.  En  gruppe  af 
-migranter  gennemfører  en  udenlandsk  universitetsuddannelse  på  ikke-elite 
-institutioner,  hvilket  kan  afspejle  en  form  for  kompensatorisk  strategi,  som 
-udmøntes  i  social  uddannelsesmobilitet.  Forældrene  til  børn,  der  opnår  en 
-universitetsgrad  fra  udlandet,  har  desuden  selv  en  betydelig  kosmopolitisk 
-erfaring. Endeligt finder vi markante kønsforskelle. 
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary:
