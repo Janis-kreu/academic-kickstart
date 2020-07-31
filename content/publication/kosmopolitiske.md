@@ -26,7 +26,7 @@ ny  rekonversionsstrategi  til  Pierre  Bourdieus  ba! eri  af  strategier  udfo
 La Noblesse d'État, en udvandringsstrategi med henblik på erhvervelse af ud-
 dannelseskapital.  Især  personer  med  veluddannede  forældre  har  en  forøget 
 sandsynlighed for at erobre en universitetsuddannelse på en eliteinstitution, 
-navnlig i "zones of prestige", det vil sige i England og USA, som relativt set 
+navnlig i 'zones of prestige', det vil sige i England og USA, som relativt set 
 har  de  største  udbud  af  distinktive  universitetsinstitutioner.  En  gruppe  af 
 migranter  gennemfører  en  udenlandsk  universitetsuddannelse  på  ikke-elite 
 institutioner,  hvilket  kan  afspejle  en  form  for  kompensatorisk  strategi,  som 
@@ -35,9 +35,9 @@ universitetsgrad  fra  udlandet,  har  desuden  selv  en  betydelig  kosmopoliti
 erfaring. Endeligt finder vi markante kønsforskelle. 
 
 # Summary. An optional shortened abstract.
-summary: []
+summary:
 
-tags: []
+tags:
 featured: false
 
 # links:
