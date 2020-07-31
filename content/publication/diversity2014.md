@@ -1,6 +1,6 @@
 
 ---
-title: "Positive effekter af diversitet på arbejdsmarkedet"
+title: "Positive effekter af diversitet p arbejdsmarkedet"
 authors:
 - admin
 date: "2014-12-01"
@@ -12,21 +12,22 @@ date: "2014-12-01"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Samfundsøkonomen (The Social Scientist) 4, pp. 14-18"
+publication: "Samfundskonomen (The Social Scientist) 4, pp. 14-18"
 publication_short: ""
 
-abstract: 
+abstract: ABS
 
 # Summary. An optional shortened abstract.
 summary: 
 
 tags: 
+
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.djoef-forlag.dk/openaccess/samf/samfdocs/2014/2014_4/samf_2014_4_3.pdf
+url_pdf: ""
 url_code: ''
 url_dataset: ''
 url_poster: ''
