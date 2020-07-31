@@ -23,7 +23,7 @@ social:
     link: https://scholar.google.dk/citations?hl=da&user=jsOZ7CQAAAAJ&sortby=pubdate&btnA=1&view_op=list_works&gmla=AJsN-F5tHGbLBDkQXHKqH5jdLOUKfP43-lJKVR1UaigPcRlinxzerwaeJmcaFf8L0Xe-7jgAe6-W3sjdQVYD8k5cI6MEE7ZvWeD3d9qwFI2AziSYQ9-Qz76GU7L0tKdciDW6FzvGgzcs
   - icon: cv
     icon_pack: ai
-    link: \static\files\cv.pdf
+    link: /files/cv.pdf
 education:
   courses:
     - course: Assistant Professor
