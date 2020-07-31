@@ -1,5 +1,5 @@
 ---
-title: "Immigrants’ Effect on Native Workers:New Analysis on Longitudinal Data"
+title: "Family Migration and Relative Earnings Potentials "
 authors:
 - admin
 date: "2016-10-01"
