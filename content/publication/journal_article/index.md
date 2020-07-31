@@ -8,7 +8,7 @@ date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2015"
+publishDate: "2015-1-1"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,7 +26,7 @@ abstract: Using  longitudinal  data  on  the  universe  of  workers  in  Denmark
 summary: []
 
 tags:
-- Source Themes
+- J15, J24, J31, J61, J62
 featured: true
 
 # links:
