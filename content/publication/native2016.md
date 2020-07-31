@@ -47,7 +47,7 @@ url_video: ''
 #   Otherwise, set `projects: []`.
 projects: []
 
-+++
+---
 Selected Press Coverage: 
 
 English/American: The Economist [https://www.economist.com/finance-and-economics/2016/01/23/for-good-or-ill]
