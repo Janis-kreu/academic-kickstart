@@ -27,7 +27,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ""
+url_pdf: https://www.djoef-forlag.dk/openaccess/samf/samfdocs/2014/2014_4/samf_2014_4_3.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
