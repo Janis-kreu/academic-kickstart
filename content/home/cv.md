@@ -1,4 +1,4 @@
-----
+---
 widget = "blank"
 headless = true  # This file represents a page section.
 title = CV
@@ -10,8 +10,8 @@ weight = 15
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
-  
-  ----
+ 
+ ----
 ##### PROJECT MANAGEMENT AND AWARDS
 
 2017-2021, Innovation Fund Denmark, Grand Solutions research grant to *EARN: Economic Assimilation Research Network* 
