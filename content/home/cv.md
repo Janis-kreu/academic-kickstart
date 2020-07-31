@@ -1,4 +1,4 @@
----
++++
 widget = "blank"
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
@@ -10,7 +10,7 @@ title = "CV"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
  
- ----
++++
 ##### PROJECT MANAGEMENT AND AWARDS
 
 2017-2021, Innovation Fund Denmark, Grand Solutions research grant to *EARN: Economic Assimilation Research Network* 
