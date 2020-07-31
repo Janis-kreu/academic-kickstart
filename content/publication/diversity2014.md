@@ -15,7 +15,7 @@ publication_types: ["2"]
 publication: "Samfundsøkonomen (The Social Scientist) 4, pp. 14-18"
 publication_short: ""
 
-abstract: 
+abstract: ABC
 
 # Summary. An optional shortened abstract.
 summary: []
