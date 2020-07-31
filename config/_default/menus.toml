@@ -21,7 +21,7 @@
   
 [[main]]
   name = "EARN"
-  url = "earn/"
+  url = "project/earn/"
   weight = 35
   parent = "Projects"
   
