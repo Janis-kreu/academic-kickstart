@@ -3,7 +3,7 @@ title: Oddbjørn Raaum
 role: Senior Reseacher at Frisch Center, Oslo
 avatar_filename: avatar.jpg
 social:
-  - icon_pack: ai
+  - icon_pack: fas
     icon: envelope
     link: mailto:oddbjorn.raaum@frisch.uio.no
 superuser: false
