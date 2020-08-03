@@ -4,7 +4,7 @@ role: Phd. Student at University of California, Davis
 avatar_filename: avatar.jpg
 social:
   - link: mailto:cvanderwerf@ucdavis.edu
-    icon_pack: ai
+    icon_pack: fas
     icon: envelope
 email: ""
 superuser: false
