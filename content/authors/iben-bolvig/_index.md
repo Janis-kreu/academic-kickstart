@@ -2,7 +2,10 @@
 title: Iben Bolvig
 role: Senior Researcher at VIVE
 avatar_filename: avatar.jpg
-email: ibbo@vive.dk
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:ibbo@vive.dk
 superuser: false
 user_groups:
   - External Researchers
