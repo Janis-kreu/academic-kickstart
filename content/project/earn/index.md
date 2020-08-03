@@ -2,7 +2,7 @@
 title: Economic Assimilation Network
 summary: Strenghen evidence-based refugee policy decision making. 
 date: "2016-04-27T00:00:00Z"
-type: "widget_page"
+# type: "widget_page"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -32,3 +32,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+ABC
