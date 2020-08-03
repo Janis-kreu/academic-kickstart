@@ -13,17 +13,16 @@
   url = "publication/"
   weight = 20
 
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
-  identifier = "EARN"
+#[[main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 30
+#  identifier = "EARN"
   
 [[main]]
   name = "EARN"
-  url = "project/earn/"
-  weight = 35
-  parent = "Projects"
+  url = "earn/"
+  weight = 30
   
 [[main]]
   name = "CV"
