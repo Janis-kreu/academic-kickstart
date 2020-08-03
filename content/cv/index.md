@@ -10,7 +10,7 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 ---
-Download the full CV [here](files/cv.pdf)
+Download the full CV [here](cv.pdf)
 
 ##### POSITION AND PROFESSIONAL AFFILIATIONS
 
