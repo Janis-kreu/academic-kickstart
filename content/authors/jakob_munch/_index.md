@@ -6,13 +6,9 @@ superuser: false
 authors:
 title: Jakob Roland Munch
 role: Professor at the Department of Economics
-bio: # Current research
-  Offshoring and labor market outcomes
-  Globalization and Danish exporters
-
-  [Personal web page](https://sites.google.com/view/jakob-roland-munch)
+bio: 
 interests: []
-education:
+education: 
 user_groups:
   - Researchers
 social:
@@ -21,4 +17,8 @@ social:
     link: "jakob.roland.munch@econ.ku."
 ---
 
+# Current research
+  Offshoring and labor market outcomes
+  Globalization and Danish exporters
 
+[Personal web page](https://sites.google.com/view/jakob-roland-munch)
