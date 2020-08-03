@@ -37,4 +37,4 @@ Offshoring and labor market outcomes
 
 Globalization and Danish exporters
 
-[Personal web page](sites.google.com/view/jakob-roland-munch)
+[Personal web page]("sites.google.com/view/jakob-roland-munch")
