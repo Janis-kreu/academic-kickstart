@@ -17,8 +17,6 @@ social:
     link: "jakob.roland.munch@econ.ku."
 ---
 
-# Current research
-  Offshoring and labor market outcomes
-  Globalization and Danish exporters
+Linea's research interests are  Labor Economics, Immigration Economics and Applied Microeconomics. More specifically, most of her work focuses on economic and social integration of refugees. 
 
-[Personal web page](https://sites.google.com/view/jakob-roland-munch)
+Find her personal website [here](https://sites.google.com/view/lineahasager/home)
