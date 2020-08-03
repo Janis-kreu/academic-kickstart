@@ -1,14 +1,19 @@
 ---
-title: Posts
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
+draft: true
 view: 2
-
-# Optional header image (relative to `static/img/` folder).
+authors:
+  - ""
 header:
   caption: ""
   image: ""
+title: Test ABC
+date: 2020-08-03T11:22:44.875Z
+featured: true
+projects:
+  - ""
+image:
+  filename: logos.png
+  preview_only: true
+  focal_point: smart
 ---
+This is a test, let's see how it appears.
