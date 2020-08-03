@@ -10,4 +10,3 @@ title = "Economic Assimilation Network"
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "header.jpg"
 +++
-Test ABC
