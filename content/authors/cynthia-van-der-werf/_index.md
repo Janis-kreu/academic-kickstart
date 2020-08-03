@@ -1,8 +1,12 @@
 ---
 title: Cynthia Van Der Werf
-role: Phd. Student
+role: Phd. Student at University of California, Davis
 avatar_filename: avatar.jpg
-email: cvanderwerf@ucdavis.edu
+social:
+  - link: mailto:cvanderwerf@ucdavis.edu
+    icon_pack: ai
+    icon: envelope
+email: ""
 superuser: false
 user_groups:
   - External Researchers
