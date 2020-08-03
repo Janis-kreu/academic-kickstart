@@ -8,6 +8,6 @@ weight = 10  # Order that this section will appear.
 title = "Economic Assimilation Network"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "header.jpg
+hero_media = "header.jpg"
 +++
 Test ABC
