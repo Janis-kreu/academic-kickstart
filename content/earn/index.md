@@ -8,7 +8,7 @@ type: "widget_page"
 external_link: ""
 
 header:
-  image: "header.png"
+  image: "header.jpg"
   caption: ""
   
 image: 
