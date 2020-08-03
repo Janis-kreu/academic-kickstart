@@ -8,9 +8,10 @@ weight = 20
 
 title = "About EARN"
 
-# Choose how many columns the section has. Valid values: 1 or 2.
-
-columns = "1"
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
+ 
 
 header:
   image: "header.png"
