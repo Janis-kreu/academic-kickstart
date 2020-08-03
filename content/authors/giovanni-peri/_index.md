@@ -4,7 +4,7 @@ role: Professor of Economics at the University of California, Davis
 avatar_filename: avatar.jpg
 social:
   icon: envelope
-  icon-pack: fas
+  icon_pack: fas
   link: mailto:gperi@ucdavis.edu
 superuser: false
 user_groups:
