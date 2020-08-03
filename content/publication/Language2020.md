@@ -26,6 +26,7 @@ abstract: Social and economic integration of refugees are key to their personal 
 summary: []
 
 tags:
+- earn
 - E64
 - I30
 - J18
