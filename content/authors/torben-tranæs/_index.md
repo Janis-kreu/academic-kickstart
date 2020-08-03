@@ -4,7 +4,7 @@ role: Research Director at VIVE
 avatar_filename: avatar.jpg
 social:
   - link: mailto:ttr@vive.dk
-    icon_pack: ai
+    icon_pack: fas
     icon: envelope
 superuser: false
 user_groups:
