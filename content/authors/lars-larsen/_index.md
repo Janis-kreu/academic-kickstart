@@ -4,7 +4,7 @@ role: Founder of LG Insights
 avatar_filename: avatar.jpg
 social:
   - link: mailto:ll@lginsights.dk
-    icon_pack: ai
+    icon_pack: fas
     icon: envelope
 superuser: false
 user_groups:
