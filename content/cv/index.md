@@ -1,4 +1,5 @@
---_
+---
+
 title: CV
 summary: Here we describe how to add a page to your site.
 date: "2018-06-28T00:00:00Z"
@@ -9,6 +10,8 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 ---
+Download the full CV [here](files/cv.pdf)
+
 ##### POSITION AND PROFESSIONAL AFFILIATIONS
 
 Sept. 2017 - Assistant Professor, University of Copenhagen (UCPH), Denmark 
