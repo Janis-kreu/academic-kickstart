@@ -16,4 +16,4 @@ image = "header.png"
 
 +++
 
-The Economic Assimilation Network is founded in XXX and funded by the Innovation Fund. For more information about the project go to [EARN]{{< ref "earn/index.md" >}}
+The Economic Assimilation Network is founded in XXX and funded by the Innovation Fund. For more information about the project go to [EARN]("earn/index.md")
