@@ -1,11 +1,11 @@
 ---
 title: Janis Kreuder
 role: Graduate Research Assistant
-avatar_filename: avatar
+avatar_filename: avatar.jpg
 social:
   - icon_pack: ai
     link: "mailto: lfz844@econ.ku.dk"
-    icon: mail
+    icon: envelope
 superuser: false
 user_groups:
   - Researchers
