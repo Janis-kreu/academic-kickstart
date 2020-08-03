@@ -37,7 +37,6 @@ education:
       year: 2015
 user_groups:
   - Researchers
-  - Visitors
 link: files/cv.pdf
 email: ""
 icon_pack: ai
