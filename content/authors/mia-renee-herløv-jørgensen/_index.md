@@ -4,7 +4,7 @@ role: "Phd. Student "
 avatar_filename: avatar.jpg
 superuser: false
 user_groups:
-  - Researcher
+  - Researchers
 ---
 I min forskning undersøger jeg sammenhængen mellem makroøkonomisk politik, fx pengepolitik, og ulighed ved hjælp af data på individniveau. Generelt interesserer jeg mig for public economics, ulighed og anvendt mikroøkonometri. Mine ph.d.-vejledere er Niels Johannsen og Asger Lau Andersen.
 
