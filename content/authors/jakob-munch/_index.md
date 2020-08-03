@@ -14,7 +14,7 @@ user_groups:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "jakob.roland.munch@econ.ku."
+    link: "mailto:jakob.roland.munch@econ.ku."
 ---
 
 Jakob's main topics of research are Globalization and international trade and Labor economics.
