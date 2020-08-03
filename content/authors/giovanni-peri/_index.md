@@ -3,9 +3,9 @@ title: Giovanni Peri
 role: Professor of Economics at the University of California, Davis
 avatar_filename: avatar.jpg
 social:
-  icon: envelope
-  icon_pack: fas
-  link: mailto:gperi@ucdavis.edu
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:gperi@ucdavis.edu
 superuser: false
 user_groups:
   - External Researchers
