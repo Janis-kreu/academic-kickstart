@@ -1,19 +1,15 @@
-+++ 
-widget = "blank" 
-headless = true # This file represents a page section. 
-active = true # Activate this widget? true/false 
-weight = 20
++++
+# Hero widget.
+widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 30  # Order that this section will appear.
 
-# ... Put Your Section Options Here (title etc.) ...
 title = "Economic Assimilation Network"
 
-image = "header.png"
-
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
-  
-
+# Hero image (optional). Enter filename of an image in the `static/img/` folder.
+hero_media = "header.jpg"
 +++
 
-The Economic Assimilation Network is founded in XXX and funded by the Innovation Fund. For more information about the project go to [EARN](earn/)
+I lead the Economic Assimilation Network, which aims to improve our knowledge on how public policy can foster the integration of refugees. 
+For more information on EARN to to its [Section](earn/)
