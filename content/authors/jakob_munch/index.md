@@ -4,7 +4,6 @@ organizations:
     url: https://www.ku.dk/english
 superuser: false
 authors:
-  - admin
 title: Jakob Roland Munch
 role: Professor at the Department of Economics
 bio: 
