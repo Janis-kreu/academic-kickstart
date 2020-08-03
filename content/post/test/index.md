@@ -12,7 +12,7 @@ tags:
 image:
   filename: ku.jpg
   focal_point: Smart
-  preview_only: true
+  preview_only: false
   caption: Test
 ---
 Test Test
