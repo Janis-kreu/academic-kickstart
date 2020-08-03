@@ -17,6 +17,6 @@ social:
     link: "jakob.roland.munch@econ.ku."
 ---
 
-Linea's research interests are  Labor Economics, Immigration Economics and Applied Microeconomics. More specifically, most of her work focuses on economic and social integration of refugees. 
+Jakob's main topics of research are Globalization and international trade and Labor economics.
 
-Find her personal website [here](https://sites.google.com/view/lineahasager/home)
+Find his personal website [here](https://sites.google.com/view/jakob-roland-munch/home)
