@@ -10,7 +10,6 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 ---
-Download the full CV [here](static/files/cv.pdf)
 
 ##### POSITION AND PROFESSIONAL AFFILIATIONS
 
@@ -33,12 +32,12 @@ Jan. – May 2012         University College London (host: Christian Dustmann)
 
 ##### TEACHING   
 
-Fall 2020              Econometrics (lecturer, BA)   
-Spring 2018, 2019,2020 Labour Economics (lecturer, MA elective course)   
-Spring 2016            Globalization and Labor Markets (lecturer, MA seminar)   
-Fall 2015, Fall 2014   Advanced International Trade, UCPH (lecturer, MA elective course)   
-Summer 2011 and 2012   Advanced Statistics, UCPH  (teaching assistant, BA/MA elective course)   
-Fall 2006 - spring 2007Principles of Economics I-II, UCPH (teaching assistant, BA course) 
+Fall 2020               Econometrics (lecturer, BA)   
+Spring 2018, 2019,2020  Labour Economics (lecturer, MA elective course)   
+Spring 2016             Globalization and Labor Markets (lecturer, MA seminar)   
+Fall 2015, Fall 2014    Advanced International Trade, UCPH (lecturer, MA elective course)   
+Summer 2011 and 2012    Advanced Statistics, UCPH  (teaching assistant, BA/MA elective course)   
+Fall 2006 - spring 2007 Principles of Economics I-II, UCPH (teaching assistant, BA course) 
 
 
 ##### PAST EMPLOYMENT    
