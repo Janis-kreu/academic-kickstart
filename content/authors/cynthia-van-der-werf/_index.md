@@ -6,6 +6,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link:  mailto:cvanderwerf@ucdavis.edu
+external_link="https://www.cynthiavanderwerf.com/"
 superuser: false
 user_groups:
   - External Researchers
