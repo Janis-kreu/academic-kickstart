@@ -1,6 +1,6 @@
 ---
 title: Giovanni Peri
-external_link= www.google.de
+external_link: www.google.de
 superuser: false
 
 ---
