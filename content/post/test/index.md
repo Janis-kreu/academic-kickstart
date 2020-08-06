@@ -7,6 +7,7 @@ draft: false
 featured: true
 authors:
   - admin
+  - Giovanni Peri
 tags:
   - ABC
 image:
