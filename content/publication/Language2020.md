@@ -2,11 +2,11 @@
 ---
 title: "Integrating Refugees: Language Training or Work-First Incentives?"
 authors: 
--admin
--Jacob Nielsen Arendt
--Iben Bolvig
--Linea Hasager
--Giovanni Peri
+- admin
+- Jacob Nielsen Arendt
+- Iben Bolvig
+- Linea Hasager
+- Giovanni Peri
 
 date: "2020-03-01"
 
