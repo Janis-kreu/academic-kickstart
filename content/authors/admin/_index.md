@@ -41,7 +41,6 @@ link: files/cv.pdf
 email: ""
 icon_pack: ai
 ---
-
-I am an applied labor economist working on topics related to international migration and family location decisions. I am a [IZA](https://www.iza.org/person/10325/mette-foged) and CreAM Research Fellow and have been awarded the Labour Economics Prize for the best article in Labour Economics in 2016. 
+I am an applied labor economist working on topics related to refugee integration, determinants and consequences of immigration and household decision making. I am an Assistant Professor at the University of Copenhagen and a Research Fellow at [IZA](https://www.iza.org/person/10325/mette-foged) and [CReAM](https://www.cream-migration.org/index.php) and I have been awarded the Labour Economics Prize for the best article in Labour Economics in 2016.
 
 I lead the Economic Assimilation Research Network, which was awarded the Innovation Fund Denmark's Grand Solutions research grant in 2017.
