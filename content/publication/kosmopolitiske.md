@@ -4,8 +4,8 @@
 title: "Familiers kosmopolitiske uddannelsesstrategier - et spørgsmål om migration og investering i distinktiv kapital"
 authors:
 - admin
-- Martin D. Munk
-- Andreas M. Mulvad
+- martin-munk
+- andreas-mulvad
 
 date: "2011-02-01"
 
