@@ -2,7 +2,7 @@
 title: "Immigrants’ Effect on Native Workers:New Analysis on Longitudinal Data"
 authors:
 - admin
-- Giovanni Peri
+- giovanni-peri
 date: "2015-04-01"
 
 # Publication type.
