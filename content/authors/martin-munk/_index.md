@@ -1,4 +1,5 @@
 ---
 title: Martin Munk 
-external_link: google.com
+external_link: www.google.com
+
 ---
