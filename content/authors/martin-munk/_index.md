@@ -1,5 +1,5 @@
 ---
-title: Martin Munk 
-external_link: www.google.com
+title: Martin D. Munk 
 
 ---
+Find his personal homepage [here](https://www.detfrieuniversitet.dk/)
