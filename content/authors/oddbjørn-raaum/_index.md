@@ -8,7 +8,7 @@ social:
     link: mailto:oddbjorn.raaum@frisch.uio.no
 superuser: false
 user_groups:
-  - External Researchers
+
 ---
 Find his personal website [here](https://www.frisch.uio.no/english/personell/oraaum/)
 
