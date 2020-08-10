@@ -8,7 +8,7 @@ social:
     link: mailto:gperi@ucdavis.edu
 superuser: false
 user_groups:
-  - External Researchers
+  - EARN Affiliates and Partners
 ---
 Giovanni Peri is Professor of Economics at the University of California, Davis and a Research Associate of the National Bureau of Economic Research in Cambridge, Massachusetts.  He is Editor of the “Journal of the European Economic Association” and in the Editorial Board of several Academic Journals in Economics.  He is the Founder and Director of the UC Davis Global Migration Center an interdisciplinary  research group focusing  on international migrations.
 
