@@ -36,7 +36,6 @@ education:
       institution: Institute for Study of Labor Bonn
       year: 2015
 user_groups:
-  - EARN Researchers
   - Principal Investigator
 link: files/cv.pdf
 email: ""
