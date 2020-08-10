@@ -12,7 +12,7 @@ social:
     link: mailto:mia.joergensen@econ.ku.dk
 
 user_groups:
-  - Researchers
+  - EARN Affiliates and Partners
 ---
 I min forskning undersøger jeg sammenhængen mellem makroøkonomisk politik, fx pengepolitik, og ulighed ved hjælp af data på individniveau. Generelt interesserer jeg mig for public economics, ulighed og anvendt mikroøkonometri. Mine ph.d.-vejledere er Niels Johannsen og Asger Lau Andersen.
 
