@@ -8,6 +8,6 @@ social:
     link: mailto:jar@rff.dk
 superuser: false
 user_groups:
-  - External Researchers
+  - EARN Researchers
 ---
 Find his personal website [here](https://www.rockwoolfonden.dk/organisation/jacob-nielsen-arendt/)
