@@ -36,7 +36,7 @@ education:
       institution: Institute for Study of Labor Bonn
       year: 2015
 user_groups:
-  - Researchers
+  - EARN Researchers
 link: files/cv.pdf
 email: ""
 icon_pack: ai
