@@ -5,7 +5,7 @@ organizations:
 superuser: false
 authors:
 title: Jakob Roland Munch
-role: Professor at the Department of Economics
+role: Professor at the Department of Economics at the University of Copenhagen
 bio: 
 interests: []
 education: 
