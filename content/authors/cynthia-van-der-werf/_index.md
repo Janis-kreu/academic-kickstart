@@ -9,7 +9,7 @@ social:
     link:  mailto:cvanderwerf@ucdavis.edu
 superuser: false
 user_groups:
-  - External Researchers
+  - EARN Affiliates and Partners
 ---
 I am a PhD Candidate in the Economics department at the [University of California, Davis](https://www.econ.ucdavis.edu/). My research focuses on applied microeconomics. My primary research interests are migration, and labor and public economics. I am currently on the job market and will be available for interviews at APPAM and the 2020 ASSA meetings.
 
