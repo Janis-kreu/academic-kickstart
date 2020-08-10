@@ -8,6 +8,6 @@ social:
     icon: envelope
 superuser: false
 user_groups:
-  - External Researchers
+
 ---
 Find his personal website [here](https://www.vive.dk/da/medarbejdere/torben-tranaes-1663/?limit=20&offset=0)
