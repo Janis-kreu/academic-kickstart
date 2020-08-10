@@ -10,7 +10,7 @@ bio:
 interests: []
 education: 
 user_groups:
-  - Researchers
+  - EARN Affiliates and Partners
 social:
   - icon: envelope
     icon_pack: fas
