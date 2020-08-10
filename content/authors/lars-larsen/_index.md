@@ -8,6 +8,6 @@ social:
     icon: envelope
 superuser: false
 user_groups:
-  - External Researchers
+  - EARN Affiliates and Partners
 ---
 Lars is the founder of LG Insights. For more information about him and LG visit their [website](https://lg-insight.dk/om-lg-insight/)
