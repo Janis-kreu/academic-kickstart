@@ -15,7 +15,7 @@ social:
     link: mailto:tlh@econ.ku.dk
 education: null
 user_groups:
-  - Researchers
+  - EARN Researchers
 ---
 Linea's research interests are  Labor Economics, Immigration Economics and Applied Microeconomics. More specifically, most of her work focuses on economic and social integration of refugees. 
 
