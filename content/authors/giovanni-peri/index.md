@@ -1,6 +1,7 @@
 ---
 title: Giovanni Peri
-external_link: http://example.org
+role: Professor at the University of California, Davis
+
 user_groups:
   - EARN Affiliates and Partners
   
