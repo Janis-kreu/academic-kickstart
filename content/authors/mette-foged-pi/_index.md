@@ -1,3 +1,4 @@
+---
 title: Mette Foged (PI)
 role: Assistant Professor at the University of Copenhagen
 avatar_filename: avatar.jpg
