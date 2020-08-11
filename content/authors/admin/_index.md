@@ -36,7 +36,6 @@ education:
       institution: Institute for Study of Labor Bonn
       year: 2015
 user_groups:
-  - Principal Investigator
 link: files/cv.pdf
 email: ""
 icon_pack: ai
