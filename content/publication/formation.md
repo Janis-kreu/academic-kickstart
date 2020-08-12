@@ -5,7 +5,7 @@ authors:
 - admin
 - cynthia-van-der-werf
 
-date: "2020-03-01"
+date: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
