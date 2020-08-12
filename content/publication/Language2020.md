@@ -34,11 +34,11 @@ links:
   - name: "Journal"
     url: "https://www.nber.org/papers/w26834.pdf"
   - name: "Preprint"
-    url:  "papers\Language2020.pdf"
+    url:  papers/Language2020.pdf
   - name: "Short Version"
-    url: "papers\Language2020.pdf"
+    url: papers/Language2020.pdf
   - name: "Code"
-    url: "papers\Language2020.pdf"
+    url: papers/Language2020.pdf
 
 
 ---
