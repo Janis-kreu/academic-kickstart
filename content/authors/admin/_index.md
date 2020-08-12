@@ -26,13 +26,13 @@ social:
     link: /files/cv.pdf
 education:
   courses:
-    - course: Assistant Professor
+    - job: Assistant Professor
       institution: University of Copenhagen
       year: 2019
-    - course: CreAM Fellow
+    - job: CreAM Fellow
       institution: University College London
       year: 2019
-    - course: IZA Research Fellow
+    - job: IZA Research Fellow
       institution: Institute for Study of Labor Bonn
       year: 2015
 user_groups:
