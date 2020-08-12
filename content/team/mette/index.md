@@ -7,5 +7,6 @@ role: Principle Investigator
 
 homepage: 
 
-summary: "I lead the Economic Assimilation Research Network...
+summary: "I lead the Economic Assimilation Research Network..."
+
 ---
