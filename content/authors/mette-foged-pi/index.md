@@ -1,6 +1,7 @@
 ---
 title: Mette Foged (PI)
-external_link: http://example.org
+role: Assistant Professor at the University of Copenhagen
+external_link: "https://mettefoged.com/"
 user_groups:
 - EARN Researchers
 
