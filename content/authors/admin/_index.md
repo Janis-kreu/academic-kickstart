@@ -28,17 +28,21 @@ education:
   courses:
     - job: Assistant Professor
       institution: University of Copenhagen
+      url_institution: "https://www.ku.dk/english"
       year: 2019
     - job: CreAM Fellow
       institution: University College London
+      url_institution: "https://www.cream-migration.org/index.php"
       year: 2019
     - job: IZA Research Fellow
       institution: Institute for Study of Labor Bonn
+      url_institution: "https://www.iza.org/person/10325/mette-foged"
       year: 2015
 user_groups:
 link: files/cv.pdf
 email: ""
 icon_pack: ai
+
 ---
 I am an applied labor economist working on topics related to refugee integration, determinants and consequences of immigration and household decision making. I am an Assistant Professor at the University of Copenhagen and a Research Fellow at [IZA](https://www.iza.org/person/10325/mette-foged) and [CReAM](https://www.cream-migration.org/index.php) and I have been awarded the Labour Economics Prize for the best article in Labour Economics in 2016.
 
