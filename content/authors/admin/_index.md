@@ -3,6 +3,7 @@ organizations:
   - name: University of Copenhagen
     url: https://www.ku.dk/english
 superuser: true
+external_link: "https://mettefoged.com/"
 authors:
   - admin
 title: Mette Foged
