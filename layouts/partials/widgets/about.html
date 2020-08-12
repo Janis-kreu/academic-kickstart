@@ -98,23 +98,49 @@
       </div>
       {{ end }}
 
-      {{ with $person.education }}
+     {{ with $person.education }}
       <div class="col-md-7">
         <h3>{{ i18n "education" | markdownify }}</h3>
         <ul class="ul-edu fa-ul">
           {{ range .courses }}
           <li>
+            {{ if .course }}
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
-              <p class="institution">{{ .institution }}</p>
+              <p class="course">{{ .course }}</p>
+              <p class="institution">
+                {{ if .url_institution }}
+                <a href="{{ .url_institution }}" target="_blank" rel="noopener">{{ .institution }}</a>
+                {{ else }}
+                  {{ .institution }}
+                {{ end }}
+                {{ if .year }}
+                    <br>{{ .year }}
+                {{ end }}
+              </p>
             </div>
-          </li>
+            {{ end }}
+            {{ if .job }}
+            <i class="fa-li fas fa-university"></i>
+            <div class="description">
+              <p class="course">{{ .job }}</p>
+              <p class="institution">
+                {{ if .url_institution }}
+                  <a href="{{ .url_institution }}" target="_blank" rel="noopener">{{ .institution }}</a>
+                {{ else }}
+                  {{ .institution }}
+                {{ end }}
+              {{ if .year }}
+                  <br>{{ .year }}
+              {{ end }}
+            </p>
+            </div>
+            {{ end }}
+           </li>
           {{ end }}
         </ul>
       </div>
       {{ end }}
-
     </div>
   </div>
 </div>
