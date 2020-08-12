@@ -1,13 +1,12 @@
 ---
-title: Johannes Stern
-
+title: Giovanni Peri
 
 date: 2020-01-05
 
-role: Principal Investigator
+role: EARN Research Affiliates
 
-homepage: "https://johannesstern.github.io"
+homepage: "http://giovanniperi.ucdavis.edu/"
 
-summary: "I am a research fellow and permanent member of staff at the Department of Philosophy of the University of Bristol. I specialize mostly in logic, in particular theories of truth and modality, and topics at the intersection of logic and the philosophy of language. I am also interested in the philosophy of mathematics, metaphysics, epistemology and general philosophy of science."
+summary: "Giovanni is Professor of Economics at the University of California, Davis and a Research Associate of the National Bureau of Economic Research in Cambridge, Massachusetts. He is the Founder and Director of the UC Davis Global Migration Center an interdisciplinary research group focusing  on international migrations. His Research focuses on the impact of international migrations on labor markets and productivity of the receiving countries and on the determinants of international migrations. He has published in several academic journals and research has been featured in popular Blogs and in media outlets."
 
 ---
