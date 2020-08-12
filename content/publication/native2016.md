@@ -21,11 +21,7 @@ abstract: Using  longitudinal  data  on  the  universe  of  workers  in  Denmark
 summary: []
 
 tags:
-- J15
-- J24
-- J31
-- J61
-- J62
+- selected
 featured: true
 
 # links:
