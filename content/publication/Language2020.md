@@ -38,7 +38,7 @@ links:
   - name: "Short Version"
     url: papers/Language2020.pdf
   - name: "Code"
-    url: papers/Language2020.pdf
+    url: code/Language2020.zip
 
 
 ---
