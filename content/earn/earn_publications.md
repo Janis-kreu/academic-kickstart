@@ -28,7 +28,7 @@ subtitle = ""
   [content.filters]
     tag = "earn"
     category = ""
-    publication_type = ["1"]
+    publication_type = ["2","3"]
     author = ""
   
 [design]
