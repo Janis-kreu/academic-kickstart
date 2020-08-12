@@ -11,7 +11,7 @@ title = "Economic Assimilation Network"
 hero_media = "featured.png"
 
 [cta]
-  url = "\earn"
+  url = "/earn"
   label = "Learn More"
   
 +++
