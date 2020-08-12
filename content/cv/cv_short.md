@@ -2,9 +2,9 @@
 widget = "blank"
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10
+weight = 20
 
-title = "Curriculum Vitae"
+title = ""
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
