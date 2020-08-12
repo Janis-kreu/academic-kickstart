@@ -27,11 +27,7 @@ summary: []
 
 tags:
 - earn
-- E64
-- I30
-- J18
-- J24
-- J60
+- selected
 featured: true
 
 # links:
