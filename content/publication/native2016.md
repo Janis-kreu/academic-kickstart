@@ -1,5 +1,5 @@
 ---
-title: "Immigrants’ Effect on Native Workers:New Analysis on Longitudinal Data"
+title: "Immigrants’ Effect on Native Workers: New Analysis on Longitudinal Data"
 authors:
 - admin
 - giovanni-peri
