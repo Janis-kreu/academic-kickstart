@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Featured Publications"
+title = "Selected Research"
 subtitle = ""
 
 [content]
@@ -26,7 +26,7 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "selected"
     category = ""
     publication_type = ""
     author = "admin"
