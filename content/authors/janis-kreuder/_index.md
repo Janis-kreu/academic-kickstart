@@ -1,6 +1,6 @@
 ---
 title: Janis Kreuder
-role: Graduate Research Assistant
+role: Graduate Research Assistant at the University of Copenhagen
 avatar_filename: avatar.jpg
 social:
   - icon_pack: fas
