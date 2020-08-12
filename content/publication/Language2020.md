@@ -30,23 +30,15 @@ tags:
 - selected
 featured: true
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: https://www.nber.org/papers/w26834.pdf
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+links:
+  - name: "Journal"
+    url: "https://www.nber.org/papers/w26834.pdf"
+  - name: "Preprint"
+    url:  "papers\Language2020.pdf"
+  - name: "Short Version"
+    url: "papers\Language2020.pdf"
+  - name: "Code"
+    url: "papers\Language2020.pdf"
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
 
 ---
