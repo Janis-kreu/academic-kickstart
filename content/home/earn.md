@@ -8,8 +8,14 @@ weight = 35  # Order that this section will appear.
 title = "Economic Assimilation Network"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "header.jpg"
+hero_media = "featured.png"
+
+[cta]
+  url = "\earn"
+  label = "Learn More"
+  
 +++
 
 I lead the Economic Assimilation Network, which aims to improve our knowledge on how public policy can foster the integration of refugees. 
-For more information on EARN to to its [Section](earn/)
+
+
