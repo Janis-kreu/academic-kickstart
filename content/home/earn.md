@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 35  # Order that this section will appear.
 
-title = "Economic Assimilation Network"
+title = "Economic Assimilation Research Network"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "featured.png"
