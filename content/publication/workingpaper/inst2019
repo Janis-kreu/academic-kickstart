@@ -1,0 +1,43 @@
+---
+
+title: "The Role of Institutions in the Labor Market Impact of Immigration"
+authors:
+- admin
+- linea-hasager
+- vasco-yasenov
+
+date: "2019-06-01"
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["3"]
+
+# Publication name and optional abbreviated publication name.
+publication: "NBER Working Paper No. 26834"
+publication_short: ""
+
+
+abstract: We study the role of labor market institutions and policies in affecting the wage impact of immigration using a cross-country meta-analysis approach. 
+We gather information on 1,548 previouslyreported semi-elasticities from 66 academic studies covering 20 developed countries. 
+We supplement this dataset with country-level institutional structure and coverage data from the OECD. 
+These include employment and wage rigidities, labor mobility, active labor market programs spending, andproduct market regulation. 
+We relate estimated wage effects and institutional coverage while controlling for local economic conditions, immigrant skill composition, time and region fixed effectsand study characteristics. 
+Higher labor market rigidity, as brought about by more widespread insti-tutions, regulations and policies, mitigates the effects on relative wages of high- versus low-skillednatives but exacerbates the impacts on average earnings. 
+Overall, our results suggest that labor market institutions and policies may be effective tools in the economic absorption of foreign workers.
+
+
+
+# Summary. An optional shortened abstract.
+summary: []
+
+tags:
+featured: true
+
+links:
+  - name: "Journal"
+    url: "http://web.econ.ku.dk/foged/FogedHasagerYasenov20190605.pdf"
+  
+
+---
