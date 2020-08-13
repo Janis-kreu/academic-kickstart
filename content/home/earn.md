@@ -16,6 +16,6 @@ hero_media = "featured.png"
   
 +++
 
-I lead the Economic Assimilation Network, which aims to improve our knowledge on how public policy can foster the integration of refugees. 
+I lead the Economic Assimilation Research Network, which aims to improve our knowledge on how public policy can foster the integration of refugees. 
 
 
