@@ -4,7 +4,7 @@ title: "The Role of Institutions in the Labor Market Impact of Immigration"
 authors:
 - admin
 - linea-hasager
-
+- Vasco Yasenov("https://sites.google.com/site/yasenov/home")
 date: "2019-06-01"
 
 # Publication type.
@@ -27,23 +27,9 @@ summary: []
 tags:
 featured: true
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: http://web.econ.ku.dk/foged/FogedHasagerYasenov20190605.pdf
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: ['earn']
+links:
+  - name: "Journal"
+    url: "http://web.econ.ku.dk/foged/FogedHasagerYasenov20190605.pdf"
+  
 
 ---
