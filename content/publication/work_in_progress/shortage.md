@@ -26,7 +26,7 @@ summary: []
 
 tags:
 - earn
-featured: true
+featured: false
 
 # links:
 # - name: ""
