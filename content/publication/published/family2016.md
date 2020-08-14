@@ -23,17 +23,10 @@ tags:
 - selected
 featured: true
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: https://doi.org/10.1016/j.labeco.2016.08.004
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+links:
+  - name: "Journal"
+    url: "https://doi.org/10.1016/j.labeco.2016.08.004"
+
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
