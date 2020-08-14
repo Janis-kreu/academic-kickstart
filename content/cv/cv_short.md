@@ -32,10 +32,10 @@ Jan. 2012 - May  2012 &nbsp;&nbsp;&nbsp;   University College London (host: Chri
 
 ##### TEACHING   
 
-Fall 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               Econometrics (lecturer, BA)     
+Fall 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               Econometrics (lecturer, BA)     
 Spring 2018,2019,2020 &nbsp;&nbsp;&nbsp;   Labour Economics (lecturer, MA elective course)     
-Spring 2016 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            Globalization and Labor Markets (lecturer, MA seminar)     
-Fall 2014,2015 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          Advanced International Trade, UCPH (lecturer, MA elective course)     
+Spring 2016 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           Globalization and Labor Markets (lecturer, MA seminar)     
+Fall 2014,2015 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          Advanced International Trade, UCPH (lecturer, MA elective course)     
 
 ##### PAST EMPLOYMENT    
 
@@ -70,24 +70,24 @@ Martin D. Munk, Mette Foged and Andreas M. Mulvad. 2011. Familiers kosmopolitisk
 
 ##### INVITED PRESENTATIONS
 
-Jun. 11, 2020           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Norwegian School of Economics, FAIR  
-Apr. 23, 2020           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Bristol     
-Apr. 21, 2020           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    UCL, Center for Research and Analysis of Migration  
-May 2, 2019             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Uppsala      
-Mar. 14, 2017           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ASD      
-Mar. 2, 2017            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    The Danish Economic Society      
-Jan. 31, 2017           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    SNS      
-Jun., 9, 2015           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    The Swedish Economc Association      
-Sep. 9-11, 2014         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Frisch Centre for Economic Research      
+Jun. 11, 2020           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Norwegian School of Economics, FAIR  
+Apr. 23, 2020           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Bristol     
+Apr. 21, 2020           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    UCL, Center for Research and Analysis of Migration  
+May 2, 2019             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Uppsala      
+Mar. 14, 2017           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ASD      
+Mar. 2, 2017            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    The Danish Economic Society      
+Jan. 31, 2017           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    SNS      
+Jun., 9, 2015           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     The Swedish Economc Association      
+Sep. 9-11, 2014         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Frisch Centre for Economic Research      
 Sep. 30 - Oct. 14, 2013 &nbsp;&nbsp;&nbsp;    UC Davis      
-Jun. 24-29, 2012        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Ifo Center for International Institutional Comparisons and Migration Research  
+Jun. 24-29, 2012        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Ifo Center for International Institutional Comparisons and Migration Research  
 
 ##### CONFERENCE PRESENTATIONS    
 2015: &nbsp;&nbsp;&nbsp; 12th IZA Annual Migration Meeting (AM²) and 5th Migration Topic Week, Dakar  
 2014: &nbsp;&nbsp;&nbsp; NBER Summer Institute, Labor Studies, Cambridge;  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     3rdIZA@DC Young Scholar Program, Washington     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     3rdIZA@DC Young Scholar Program, Washington     
 2013: &nbsp;&nbsp;&nbsp; CEMIR: Junior Economist Workshop on Migration Research, CESifo;   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     The European Economic Association (EEA), University of Gothenburg;    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     The European Economic Association (EEA), University of Gothenburg;    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     Migration: Global Development, New Frontiers, University College London (UCL)      
 2012: &nbsp;&nbsp;&nbsp; 26thAnnual Conference of the European Society for Population Economics (ESPE), University of Bern      
 2011: &nbsp;&nbsp;&nbsp; Migration: Economic Change, Social Challenge, University College London (UCL)   
