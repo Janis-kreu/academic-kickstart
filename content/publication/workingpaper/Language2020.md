@@ -31,14 +31,9 @@ tags:
 featured: true
 
 links:
-  - name: "Journal"
+  - name: "NBER WP"
     url: "https://www.nber.org/papers/w26834.pdf"
-  - name: "Preprint"
-    url:  papers/Language2020.pdf
-  - name: "Short Version"
-    url: papers/Language2020.pdf
-  - name: "Code"
-    url: code/Language2020.zip
+
 
 
 ---
