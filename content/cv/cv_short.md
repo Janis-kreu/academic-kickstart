@@ -32,10 +32,10 @@ Jan. 2012 - May  2012 &nbsp;&nbsp;&nbsp;   University College London (host: Chri
 
 ##### TEACHING   
 
-Fall 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               Econometrics (lecturer, BA)     
+Fall 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               Econometrics (lecturer, BA)     
 Spring 2018,2019,2020 &nbsp;&nbsp;&nbsp;   Labour Economics (lecturer, MA elective course)     
-Spring 2016 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            Globalization and Labor Markets (lecturer, MA seminar)     
-Fall 2014,2015 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          Advanced International Trade, UCPH (lecturer, MA elective course)     
+Spring 2016 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            Globalization and Labor Markets (lecturer, MA seminar)     
+Fall 2014,2015 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          Advanced International Trade, UCPH (lecturer, MA elective course)     
 
 ##### PAST EMPLOYMENT    
 
@@ -59,10 +59,13 @@ Foged, Hasager and Yasenov. 2019. The Role of Institutions in the Labor Market I
 
 ###### PUBLICATIONS 
 
-Foged, Mette. 2016. Family Migration and Relative Earnings Potentials. *Labour Economics* 42(C), pp 87-100. Won Labour Economics Prize for best paper in 2016 
+Foged, Mette. 2016. Family Migration and Relative Earnings Potentials. *Labour Economics* 42(C), pp 87-100. Won Labour Economics Prize for best paper in 2016
+
 Foged, Mette and Giovanni Peri. 2016. Immigrants’ Effect on Native Workers: New Analysis on Longitudinal Data. *American Economic Journal: Applied Economics* 8(2), pp.1-34. 
 
-IN DANISH: Foged, Mette. 2014. Positive effekter af diversitet på arbejdsmarkedet, *Samfundsøkonomen (The Social Scientist)*, No. 4, pp. 14-18 
+IN DANISH:  
+Foged, Mette. 2014. Positive effekter af diversitet på arbejdsmarkedet, *Samfundsøkonomen (The Social Scientist)*, No. 4, pp. 14-18
+
 Martin D. Munk, Mette Foged and Andreas M. Mulvad. 2011. Familiers kosmopolitiske uddannelsesstrategier – et spørgsmål om migration og investering i distinktiv kapital,  *Dansk Sociologi (Danish Sociology)*, vol. 22, No. 3
 
 ##### INVITED PRESENTATIONS
@@ -82,10 +85,10 @@ Jun. 24-29, 2012        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 ##### CONFERENCE PRESENTATIONS    
 2015: &nbsp;&nbsp;&nbsp; 12th IZA Annual Migration Meeting (AM²) and 5th Migration Topic Week, Dakar  
 2014: &nbsp;&nbsp;&nbsp; NBER Summer Institute, Labor Studies, Cambridge;  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     3rdIZA@DC Young Scholar Program, Washington     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     3rdIZA@DC Young Scholar Program, Washington     
 2013: &nbsp;&nbsp;&nbsp; CEMIR: Junior Economist Workshop on Migration Research, CESifo;   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     The European Economic Association (EEA), University of Gothenburg;    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     Migration: Global Development, New Frontiers, University College London (UCL)      
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     The European Economic Association (EEA), University of Gothenburg;    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     Migration: Global Development, New Frontiers, University College London (UCL)      
 2012: &nbsp;&nbsp;&nbsp; 26thAnnual Conference of the European Society for Population Economics (ESPE), University of Bern      
 2011: &nbsp;&nbsp;&nbsp; Migration: Economic Change, Social Challenge, University College London (UCL)   
 
