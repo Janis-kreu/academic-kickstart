@@ -2,7 +2,7 @@
 ---
 title: "The effect of early job-training for refugees on their skills and labor market outcomes after 4 years"
 authors: 
-- jakob-nielsen-arendt
+- jacob-nielsen-arendt
 - iben-bolvig
 
 date: 2020-06-19
