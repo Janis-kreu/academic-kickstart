@@ -33,6 +33,8 @@ featured: true
 links:
   - name: "NBER WP"
     url: "https://www.nber.org/papers/w26834.pdf"
+  - name: "CREAM, UCL Seminar"
+    url: "https://www.cream-migration.org/eventdetail.php?id=291"
 
 
 
