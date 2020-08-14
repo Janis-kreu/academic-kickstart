@@ -11,7 +11,7 @@
     {{- $name := $profile_page.Title | default $name_raw -}}
     {{- $link := $profile_page.RelPermalink -}}
     {{ if and (eq $site_type "Person") (eq .Params.superuser true) }}
-      {{ - $link := = site.BaseURL }}
+      {{- $link := = site.BaseURL }}
     {{ end }}
     {{- $target := "" -}}
     {{- with $profile_page.Params.external_link -}}
