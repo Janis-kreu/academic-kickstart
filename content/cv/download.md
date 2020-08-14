@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = ""
 
 [cta]
-  url = "cv.pdf"
+  url = "files/cv.pdf"
   label = "Long Version"
   icon_pack = "fas"
   icon = "download"
