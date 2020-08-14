@@ -18,7 +18,7 @@ publication_short: ""
 abstract: Using  longitudinal  data  on  the  universe  of  workers  in  Denmark  during the period 1991–2008, we track the labor market outcomes of low-skilled natives in response to an exogenous inflow of  low-skilled immigrants. We innovate on previous identification strategies by con-sidering  immigrants  distributed  across  municipalities  by  a  refugee  dispersal  policy  in  place  between  1986  and  1998.  We  find  that  an  increase  in  the  supply  of  refugee-country  immigrants  pushed  less  educated  native  workers  (especially  the  young  and  low-tenured  ones) to pursue less manual-intensive occupations. As a result immi-gration had positive effects on native unskilled wages, employment, and occupational mobility.
 
 # Summary. An optional shortened abstract.
-summary: []
+summary: "Inflow of refugee-country immigrants pushed less educated native workers to pursue less manual-intensive occupations. As a result wages and employment improved."
 
 tags:
 - selected
