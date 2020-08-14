@@ -24,17 +24,10 @@ tags:
 - selected
 featured: true
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: http://dx.doi.org/10.1257/app.20150114
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+links:
+ - name: "Journal"
+   url: "http://dx.doi.org/10.1257/app.20150114"
+
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
