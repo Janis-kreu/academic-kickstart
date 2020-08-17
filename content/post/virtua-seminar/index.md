@@ -6,7 +6,6 @@ summary: ""
 draft: false
 featured: true
 authors:
-  - admin
 tags:
   - ""
 image:
