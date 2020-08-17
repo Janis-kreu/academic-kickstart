@@ -17,7 +17,7 @@ publication_short: ""
 abstract: A unitarian model of family migration in which families may discount wives' private gains is used to derive testable predictions regarding the type of couples that select into migrating. The empirical tests show that gender neutral family migration cannot be rejected against the alternative of husband centered migration. Couples are more likely to migrate if household earnings potential is disproportionally due to one partner, and families react equally strongly to a male and a female relative advantage in educational earnings potential. These results are driven by households with a strong relative advantage to one of the partners while results are less clear for small dissimilarities within the couple, suggesting that gender identity norms may play a role when the opportunity costs of adhering to them are small.
 
 # Summary. An optional shortened abstract.
-summary: "Couples are more likely to migrate if household earnings potential is disproportionally due to one partner, and families react equally strongly to a male and a female relative advantage in educational earnings potential"
+summary: "Couples are more likely to migrate if household earnings potential is disproportionally due to one partner, and families react equally strongly to a male and a female relative advantage in educational earnings potential."
 
 tags:
 - selected
