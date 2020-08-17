@@ -6,7 +6,7 @@ summary: ""
 draft: false
 featured: true
 authors:
-  - mette-foged-pi
+  - admin
 tags:
   - ""
 image:
