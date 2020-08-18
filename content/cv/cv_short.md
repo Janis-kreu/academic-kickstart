@@ -17,7 +17,7 @@ Sep. 2017 - &nbsp;&nbsp;&nbsp;   Assistant Professor, University of Copenhagen (
 Sep. 2015 - &nbsp;&nbsp;&nbsp;  IZA Research Fellow, Institute for the Study of Labor, Bonn, Germany  
 Sep. 2019 - &nbsp;&nbsp;&nbsp;  CReAM Fellow, University College London, United Kingdom   
 
-On maternity leave: May 2016 - Feb. 2017, Mar. - Dec. 2018
+*On maternity leave*: May 2016 - Feb. 2017, Mar. - Dec. 2018
 
 ##### EDUCATION 
 
@@ -35,7 +35,7 @@ Jan. 2012 - May  2012 &nbsp;&nbsp;&nbsp;   University College London (host: Chri
 ##### TEACHING   
 
 Fall 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               Econometrics A (lecturer, BA)     
-Spring 2018,2019,2020 &nbsp;&nbsp;&nbsp;   Labour Economics (lecturer, MA elective course)     
+Spring 2018,2019,2020   Labour Economics (lecturer, MA elective course)     
 Spring 2016 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           Globalization and Labor Markets (lecturer, MA seminar)     
 Fall 2014,2015 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          Advanced International Trade, UCPH (lecturer, MA elective course)     
 
@@ -72,7 +72,7 @@ Martin D. Munk, Mette Foged and Andreas M. Mulvad. 2011. Familiers kosmopolitisk
 
 ##### INVITED PRESENTATIONS
 
-Jun. 11, 2020           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Norwegian School of Economics, FAIR  
+Jun. 11, 2020           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Norwegian School of Economics, FAIR  
 Apr. 23, 2020           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Bristol     
 Apr. 21, 2020           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    UCL, Center for Research and Analysis of Migration  
 May 2, 2019             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Uppsala      
@@ -87,14 +87,15 @@ Jun. 24-29, 2012        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 ##### CONFERENCE PRESENTATIONS    
 2015: &nbsp;&nbsp;&nbsp; 12th IZA Annual Migration Meeting (AM²) and 5th Migration Topic Week, Dakar  
 2014: &nbsp;&nbsp;&nbsp; NBER Summer Institute, Labor Studies, Cambridge;  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     3rdIZA@DC Young Scholar Program, Washington     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     3rdIZA@DC Young Scholar Program, Washington     
 2013: &nbsp;&nbsp;&nbsp; CEMIR: Junior Economist Workshop on Migration Research, CESifo;   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     The European Economic Association (EEA), University of Gothenburg;    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     Migration: Global Development, New Frontiers, University College London (UCL)      
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     The European Economic Association (EEA), University of Gothenburg;    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     Migration: Global Development, New Frontiers, University College London (UCL)      
 2012: &nbsp;&nbsp;&nbsp; 26thAnnual Conference of the European Society for Population Economics (ESPE), University of Bern      
 2011: &nbsp;&nbsp;&nbsp; Migration: Economic Change, Social Challenge, University College London (UCL)   
 
 ##### POLICY REPORTS
 Foged, Mette, Natnael Simachew and Nana Wesley. 2019. Copenhagen: FAOS, Department of Sociology, University of Copenhagen, Report No. 167   
+
 Foged, Mette, Linea Hasager and Vasil Yasenov. 2018. Copenhagen: Ministry of Employment.   
 
