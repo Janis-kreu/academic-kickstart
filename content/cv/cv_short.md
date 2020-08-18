@@ -35,7 +35,7 @@ Jan. 2012 - May  2012 &nbsp;&nbsp;&nbsp;   University College London (host: Chri
 ##### TEACHING   
 
 Fall 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               Econometrics A (lecturer, BA)     
-Spring 2018,2019,2020   Labour Economics (lecturer, MA elective course)     
+Spring 2018,2019,2020 &nbsp;  Labour Economics (lecturer, MA elective course)     
 Spring 2016 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           Globalization and Labor Markets (lecturer, MA seminar)     
 Fall 2014,2015 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          Advanced International Trade, UCPH (lecturer, MA elective course)     
 
@@ -89,8 +89,8 @@ Jun. 24-29, 2012        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 2014: &nbsp;&nbsp;&nbsp; NBER Summer Institute, Labor Studies, Cambridge;  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     3rdIZA@DC Young Scholar Program, Washington     
 2013: &nbsp;&nbsp;&nbsp; CEMIR: Junior Economist Workshop on Migration Research, CESifo;   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     The European Economic Association (EEA), University of Gothenburg;    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     Migration: Global Development, New Frontiers, University College London (UCL)      
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     The European Economic Association (EEA), University of Gothenburg;    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     Migration: Global Development, New Frontiers, University College London (UCL)      
 2012: &nbsp;&nbsp;&nbsp; 26thAnnual Conference of the European Society for Population Economics (ESPE), University of Bern      
 2011: &nbsp;&nbsp;&nbsp; Migration: Economic Change, Social Challenge, University College London (UCL)   
 
