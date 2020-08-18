@@ -17,6 +17,8 @@ Sep. 2017 - &nbsp;&nbsp;&nbsp;   Assistant Professor, University of Copenhagen (
 Sep. 2015 - &nbsp;&nbsp;&nbsp;  IZA Research Fellow, Institute for the Study of Labor, Bonn, Germany  
 Sep. 2019 - &nbsp;&nbsp;&nbsp;  CReAM Fellow, University College London, United Kingdom   
 
+On maternity leave: May 2016 - Feb. 2017, Mar. - Dec. 2018
+
 ##### EDUCATION 
 
 Apr. 2017 - Jan. 2018 &nbsp;&nbsp;&nbsp;   Harvard Business School Executive Education, Pasteur Program      
@@ -32,7 +34,7 @@ Jan. 2012 - May  2012 &nbsp;&nbsp;&nbsp;   University College London (host: Chri
 
 ##### TEACHING   
 
-Fall 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               Econometrics (lecturer, BA)     
+Fall 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               Econometrics A (lecturer, BA)     
 Spring 2018,2019,2020 &nbsp;&nbsp;&nbsp;   Labour Economics (lecturer, MA elective course)     
 Spring 2016 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           Globalization and Labor Markets (lecturer, MA seminar)     
 Fall 2014,2015 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          Advanced International Trade, UCPH (lecturer, MA elective course)     
