@@ -27,6 +27,12 @@ featured: true
 links:
  - name: "Journal"
    url: "http://dx.doi.org/10.1257/app.20150114"
+ - name: "IZA DP"
+   url: "http://ftp.iza.org/dp8961.pdf"
+ - name: "CReAM DP"
+   url: "https://www.cream-migration.org/publ_uploads/CDP_07_15.pdf"
+ - name: "NBER WP"
+    url: "https://www.nber.org/papers/w19315"
 
 
 # Associated Projects (optional).
