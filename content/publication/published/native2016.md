@@ -32,7 +32,7 @@ links:
  - name: "CReAM DP"
    url: "https://www.cream-migration.org/publ_uploads/CDP_07_15.pdf"
  - name: "NBER WP"
-    url: "https://www.nber.org/papers/w19315"
+   url: "https://www.nber.org/papers/w19315"
 
 
 # Associated Projects (optional).
