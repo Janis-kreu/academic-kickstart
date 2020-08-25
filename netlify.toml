@@ -8,7 +8,7 @@
     [plugins.inputs]
  
     # The base url of your site (optional, default = main URL set in Netlify)
-    baseUrl = "www.mettefoged.com"
+    #baseUrl = "www.mettefoged.com"
  
     # Path to the sitemap URL (optional, default = /sitemap.xml)
     sitemapPath = "/sitemap.xml"
