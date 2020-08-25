@@ -26,7 +26,7 @@ featured: true
 links:
   - name: "Journal"
     url: "https://doi.org/10.1016/j.labeco.2016.08.004"
-  - name: "CREAM DP"
+  - name: "CReAM DP"
     url: "https://www.cream-migration.org/publ_uploads/CDP_29_14.pdf"
   - name: "IZA DP"
     url: "http://ftp.iza.org/dp10180.pdf"
