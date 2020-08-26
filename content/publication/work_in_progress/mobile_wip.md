@@ -23,7 +23,6 @@ abstract:
 summary: []
 
 tags:
-- earn
 featured: true
 
 # links:
