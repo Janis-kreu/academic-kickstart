@@ -95,7 +95,7 @@ Jun. 24-29, 2012        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 2011: &nbsp;&nbsp;&nbsp; Migration: Economic Change, Social Challenge, University College London (UCL)   
 
 ##### POLICY REPORTS
-Foged, Mette, Natnael Simachew and Nana Wesley. 2019. Copenhagen: FAOS, Department of Sociology, University of Copenhagen, Report No. 167   
+Foged, Mette, Natnael Simachew and Nana Wesley. 2019. [Expats and the firms they work in](https://faos.ku.dk/nyheder/danske-virksomheders-brug-af-expats/Rapport_167_-_Expats_and_the_firms_they_work_in_final.pdf) Copenhagen: FAOS, Department of Sociology, University of Copenhagen, Report No. 167   
 
-Foged, Mette, Linea Hasager and Vasil Yasenov. 2018. Copenhagen: Ministry of Employment.   
+Foged, Mette, Linea Hasager and Vasil Yasenov. 2018. [Litteraturstudie om virkninger af udenlandsk arbejdskraft](http://web.econ.ku.dk/foged/Litteraturreview%20om%20virkninger%20af%20udenlandsk%20arbejdskraft%20180426%20-%20endelig%20version.pdf) Copenhagen: Ministry of Employment.   
 
