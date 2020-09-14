@@ -33,7 +33,7 @@ featured: true
 links:
   - name: "NBER WP"
     url: "https://www.nber.org/papers/w26834.pdf"
-  - name: "The Economics of Migration Seminar"
+  - name: "Latest Presentation (Video)"
     url: "https://www.youtube.com/watch?v=Mnfd-VngCsM&feature=emb_title"
 
 
