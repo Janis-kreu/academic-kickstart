@@ -1,6 +1,7 @@
 ---
 title: Immigration in OECD Countries - 10th Annual International Conference
-subtitle: Presentation of 3 EARN Working Papers
+subtitle: Linea Hasager, Iben Bolvig and Cynthia van der Werf are presenting the
+  latest three EARN Working Papers
 date: 2020-12-08T12:30:36.176Z
 summary: Three EARN working papers are presented at the [10th Annual
   International Conference on Immigration in OECD
