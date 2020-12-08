@@ -6,9 +6,9 @@ summary: Three EARN working papers are presented at the [10th Annual
   International Conference on Immigration in OECD
   Countries](http://www.cepii.fr/CEPII/fr/evenements/abstract.asp?IDReu=521)
 draft: false
-featured: false
+featured: true
 image:
-  filename: presentation0712.png
+  filename: feautured.png
   focal_point: Smart
   preview_only: false
 ---
