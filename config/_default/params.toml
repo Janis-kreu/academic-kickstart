@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "I am an applied labor economist working on topics related to refugee integration, determinants and consequences of immigration and household decision making. I currently am an Assistant Professor at the University of Copenhagen and lead the Economic Assimilation Research Network."
 
 ############################
 ## Site Features
