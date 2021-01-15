@@ -12,7 +12,7 @@ title = "About EARN"
   
 +++
 Since 1999, municipalities in Denmark have been responsible for integrating refugees, immigrants and family reunified people into the Danish labor market. 
-Over the years, many different approach have been taken with the goal to improve the integration efforts. Many methods and models have been developed and tested locally, but there is still uncertainty about what works, how and under what conditions. 
+Over the years, many different approaches have been taken with the goal to improve the integration efforts. Many methods and models have been developed and tested locally, but there is still uncertainty about what works, how and under what conditions. 
 
 This will be investigated by the Economic Assimilation Research Network (EARN).
 
