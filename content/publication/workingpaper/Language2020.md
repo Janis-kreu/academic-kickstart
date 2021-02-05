@@ -1,6 +1,6 @@
 
 ---
-title: "Integrating Refugees: Language Training or Work-First Incentives?"
+title: "Language Training and Refugee’s Integration"
 authors: 
 - admin
 - jacob-nielsen-arendt
@@ -20,10 +20,10 @@ publication_types: ["3"]
 publication: "NBER Working Paper No. 26834"
 publication_short: ""
 
-abstract: Social and economic integration of refugees are key to their personal fulfillment and to producing positive effects in the host country. We evaluate the impact of a reform that expanded and improved early language classes to refugees in Denmark while also temporarily lowering welfare benefits for a subgroup of them. The policy change applied to those who obtained refugee status in Denmark on or after January 1, 1999. Using a regression discontinuity design around the cutoff date we find that employment and earnings gradually diverged for the treated group after completion of the language program. The effect was significant and resulted in four percentage points permanently higher employment and almost USD 2,510 in extra yearly earnings over eighteen years. We do not find temporary or permanent labor market effects of cutting welfare benefits, but we find evidence of temporarily higher property crime when refugees received lower benefits. We also find that children of refugees who received enhanced language classes were more likely to complete lower secondary school and less likely to commit crime. 
+abstract: We evaluate a Danish reform focused on improving Danish language training for those granted refugee  status  on  or  after  January  1,  1999.   Using  a  Regression  Discontinuity  Design  we  find  a significant,  permanent,  positive effect on earnings. This effect emerged after completion of language classes and was accompanied by additional schooling and higher probability of working in communication-intensive jobs, suggesting that language training, rather than other minor aspects of the reform, produced it. We also find evidence of higher completion rates of lower secondary school and lower probability of crime for male children with both parents exposed to the reform.
 
 # Summary. An optional shortened abstract.
-summary: "Language training led to persistently higher wages and employment of treated refugees after the program. Labor market effects for a subgroup who simultaneously experiences lower welfare benefits were similar, but shoplifting increased for the duration of the lower benefits."
+summary: "Language training led to persistently higher wages and employment of treated refugees after the program. Effect emerged after completion of language classes and was accompanied by additional schooling and higher probability of working in communication-intensive jobs, suggesting that language training, rather than other minor aspects of the reform, produced it. Spillover effect on higher school completion and lower probability of crime for male children with both parents exposed to the reform."
 
 tags:
 - earn
@@ -31,10 +31,13 @@ tags:
 featured: true
 
 links:
+  - name: "CReAM WP"
+    url: "https://www.cream-migration.org/publ_uploads/CDP_04_21.pdf"
   - name: "NBER WP"
     url: "https://www.nber.org/papers/w26834.pdf"
   - name: "Latest Presentation (Video)"
     url: "https://www.youtube.com/watch?v=Mnfd-VngCsM&feature=emb_title"
+
 
 
 
