@@ -31,7 +31,7 @@ tags:
 featured: true
 
 links:
-  - name: "CReAM WP"
+  - name: "CReAM DP"
     url: "https://www.cream-migration.org/publ_uploads/CDP_04_21.pdf"
   - name: "NBER WP"
     url: "https://www.nber.org/papers/w26834.pdf"
