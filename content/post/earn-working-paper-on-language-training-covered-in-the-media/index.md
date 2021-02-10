@@ -1,9 +1,11 @@
 ---
-title: EARN working paper on language training covered in the media
+title: EARN working papers on language training covered in the media
 date: 2021-02-10T08:36:28.375Z
-summary: The EARN working paper "**Early labour market entry, language
+summary: The EARN working papers "**Early labour market entry, language
   acquisition and labour market success of refugees**", by Jacob Nielsen Arendt
-  and Iben Bolvig has recently been covered in the Danish newspaper
+  and Iben Bolvig and "**Language training and refugee's integration"** by Mette
+  Foged, Jacob Nielsen Arendt, Iben Bolvig, Linea Hasager and Giovanni Peri have
+  recently been covered in the Danish newspaper
   [Altinget](https://www.altinget.dk/arbejdsmarked/artikel/forskere-sprog-og-uddannelse-er-vejen-frem-hvis-flere-indvandrere-skal-i-job).
 draft: false
 featured: false
@@ -12,4 +14,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-The EARN working paper "**Early labour market entry, language acquisition and labour market success of refugees**", by Jacob Nielsen Arendt and Iben Bolvig has recently been covered in the Danish newspaper [Altinget](https://www.altinget.dk/arbejdsmarked/artikel/forskere-sprog-og-uddannelse-er-vejen-frem-hvis-flere-indvandrere-skal-i-job).
+The EARN working papers "**Early labour market entry, language acquisition and labour market success of refugees**", by Jacob Nielsen Arendt and Iben Bolvig and "**Language training and refugee's integration"** by Mette Foged, Jacob Nielsen Arendt, Iben Bolvig, Linea Hasager and Giovanni Peri have recently been covered in the Danish newspaper [Altinget](https://www.altinget.dk/arbejdsmarked/artikel/forskere-sprog-og-uddannelse-er-vejen-frem-hvis-flere-indvandrere-skal-i-job).
