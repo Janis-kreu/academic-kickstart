@@ -17,14 +17,14 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: "We evaluate an integration concept that, based on an analysis of local labor market shortages and a sequence of ALMP tailored to equip the refugee with the skills required to take a job within a specific industry with local excess demand, direct newly arrived refugees towards these job. The concept gradually spread over Danish municipalities during the past decade and we exploit the gradual roll-out in a staggered difference-in-difference estimator to uncover the causal effect of this approach. We find that this demand-side approach to integrating refugees into the local labor market accelerated refugees’ job finding such that the earnings in the first year increase by 50%, compared to the mean."
+abstract: "We evaluate an integration concept that, based on an analysis of local labor market shortages and a sequence of ALMP tailored to equip the refugee with the skills required to take a job within a specific industry with local excess demand, direct newly arrived refugees towards these job. The concept gradually spread over Danish municipalities during the past decade and we exploit the gradual roll-out in a staggered difference-in-difference estimator to uncover the causal effect of this approach."
 
 # Summary. An optional shortened abstract.
-summary: "This is a test to see if the summary is what is eventually displayed"
+summary: ""
 
 tags:
 - earn
-featured: false
+featured: true
 
 # links:
 # - name: ""
