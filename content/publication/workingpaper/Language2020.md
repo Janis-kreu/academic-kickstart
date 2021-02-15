@@ -1,6 +1,6 @@
 
 ---
-title: "Language Training and Refugee’s Integration"
+title: "Language Training and Refugees' Integration"
 authors: 
 - admin
 - jacob-nielsen-arendt
