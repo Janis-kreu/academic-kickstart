@@ -18,5 +18,5 @@ This will be investigated by the Economic Assimilation Research Network (EARN).
 
 EARN is supported by the [Innovation Fund](https://innovationsfonden.dk/da). The project is a partnership between the [University of Copenhagen](https://www.ku.dk/english/), [LG Insight](https://lg-insight.dk/), the [National Research and Analysis Center for Welfare (VIVE)](https://www.vive.dk/da/) and the Ministry of Immigration and Integration Affairs. 
 
-The project will run from 1. Jan. 2017 to 31. Dec. 2021. This page contains the scientific output from EARN, for reports, newsletters and other information, please visit the Danish website: [https://www.econ.ku.dk/earn/](https://www.econ.ku.dk/forskning-og-publikationer/eksternt-finansierede-projekter-ved-oekonomisk-institut/earn/)
+The project will run from 1. Jan. 2017 to 31. Dec. 2021. This page contains the scientific output from EARN, for reports, newsletters and other information, please visit the [Danish website](https://www.econ.ku.dk/forskning-og-publikationer/eksternt-finansierede-projekter-ved-oekonomisk-institut/earn/)
 
