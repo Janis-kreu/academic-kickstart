@@ -1,6 +1,6 @@
 ---
 title: Linea Hasager joins CReAM at University College London as a Postdoc
-date: 2021-05-31T08:43:39.283Z
+date: 2021-06-01T12:42:51.339Z
 draft: false
 featured: false
 image:
