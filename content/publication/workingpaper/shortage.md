@@ -17,7 +17,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "We evaluate the effect on newly arrived refugees’ employment of a new policy, introduced in Denmark in 2013, that matched refugees to occupations with local labor shortages after basic train- ing for those jobs. Leveraging the staggered roll-out across municipalities, we find that the policy increased employment by 5.4-5.8 percentage points one year after arrival and 8.6 percentage points two years after. The policy was especially effective for male refugees with some secondary edu- cation. The findings suggest that this type of policy could alleviate long-term labor shortages and integrate low-skilled immigrants, while having minimal competition effects on natives."
+abstract: "We evaluate the effect on newly arrived refugees’ employment of a new policy, introduced in Denmark in 2013, that matched refugees to occupations with local labor shortages after basic training for those jobs. Leveraging the staggered roll-out across municipalities, we find that the policy increased employment by 5.4-5.8 percentage points one year after arrival and 8.6 percentage points two years after. The policy was especially effective for male refugees with some secondary edu- cation. The findings suggest that this type of policy could alleviate long-term labor shortages and integrate low-skilled immigrants, while having minimal competition effects on natives."
 
 # Summary. An optional shortened abstract.
 summary: ""
