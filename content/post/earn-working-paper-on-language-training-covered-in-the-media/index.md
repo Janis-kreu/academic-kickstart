@@ -1,6 +1,6 @@
 ---
 title: EARN working papers on language training covered in the media
-date: 2021-08-12T12:43:41.586Z
+date: 2021-02-08T13:44:06.672Z
 summary: The EARN working papers "**Early labour market entry, language
   acquisition and labour market success of refugees**", by Jacob Nielsen Arendt
   and Iben Bolvig and "**Language training and refugees' integration"** by Mette
