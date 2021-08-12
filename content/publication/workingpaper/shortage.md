@@ -1,5 +1,5 @@
 ---
-title: "Integrating Refugees by adressing Labor Shortages"
+title: "Integrating Immigrants by Addressing Labor Shortages? A Policy Evaluation"
 authors: 
 - admin
 - janis-kreuder
@@ -11,13 +11,13 @@ date: 2020-06-19
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
 
-abstract: "We evaluate an integration concept that, based on an analysis of local labor market shortages and a sequence of ALMP tailored to equip the refugee with the skills required to take a job within a specific industry with local excess demand, direct newly arrived refugees towards these job. The concept gradually spread over Danish municipalities during the past decade and we exploit the gradual roll-out in a staggered difference-in-difference estimator to uncover the causal effect of this approach."
+abstract: "We evaluate the effect on newly arrived refugees’ employment of a new policy, introduced in Denmark in 2013, that matched refugees to occupations with local labor shortages after basic train- ing for those jobs. Leveraging the staggered roll-out across municipalities, we find that the policy increased employment by 5.4-5.8 percentage points one year after arrival and 8.6 percentage points two years after. The policy was especially effective for male refugees with some secondary edu- cation. The findings suggest that this type of policy could alleviate long-term labor shortages and integrate low-skilled immigrants, while having minimal competition effects on natives."
 
 # Summary. An optional shortened abstract.
 summary: ""
