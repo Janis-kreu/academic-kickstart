@@ -1,6 +1,6 @@
 ---
 title: Janis Kreuder
-role: Graduate Research Assistant at the University of Copenhagen
+role: Former Graduate Research Assistant at the University of Copenhagen
 avatar_filename: avatar.jpg
 social:
   - icon_pack: fas
@@ -10,4 +10,4 @@ superuser: false
 user_groups:
   - EARN Researchers
 ---
-Janis Kreuder is a Graduate Research Assistant at EARN. His research focusses on how public policy can contribute to refugees becoming an asset instead of a burden to host societes.
+Janis Kreuder was a Graduate Research Assistant at EARN, working together with Mette Foged, Giovanni Peri and Linea Hasanger on multiple projects. He now works as a migration consultant for the World Bank in the Social Protection and Labor depertment.
