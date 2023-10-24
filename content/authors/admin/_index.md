@@ -2,11 +2,14 @@
 organizations:
   - name: University of Copenhagen
     url: https://www.ku.dk/english
+  - name: Rockwool Foundation Research Unit
+    url: https://en.rockwoolfonden.dk/about-the-foundation/
 superuser: true
 authors:
   - admin
 title: Mette Foged
-role: Assistant Professor at the Department of Economics
+role: Associate Professor at the Department of Economics, University of
+  Copenhagen, and Senior Researcher at Rockwool Foundation Research Unit.
 bio: I am an applied labor economist working on topics related to international
   migration and family location decisions. I lead the Economic Assimilation
   Research Network.
