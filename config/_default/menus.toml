@@ -19,6 +19,10 @@
 #  weight = 30
 #  identifier = "EARN"
 
+[[main]]
+  name = "EARN"
+  url = "earn/"
+  weight = 50
   
 [[main]]
   name = "CV"
